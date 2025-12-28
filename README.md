@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NafiAnnaD
-- 👀 I’m interested in my Hopfield Network project
-- 🌱 I’m currently learning how to code in python
+- I’m interested in datascience applied to biology
 
 - 📫 How to reach me nafi.drame@epfl.ch
 
