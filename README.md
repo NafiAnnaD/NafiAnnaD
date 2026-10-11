@@ -1,6 +1,5 @@
-- Hi, I’m @NafiAnnaD
-- I’m a like science engineering studedent with a data science specialization at EPFL
+### Nafi Anna Dramé
 
-- 📫 How to reach me nafi.drame@epfl.ch
+Master's student in Life Sciences Engineering at EPFL, specializing in Data Science.
 
-
+nafi.drame@epfl.ch
